@@ -1,1 +1,22 @@
-# Mysql-Task2
+SQL-BOLT  
+![Screenshot 2023-09-17 105759](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/93dfcff8-fe00-44b1-80e2-65f4e481f36e)
+![Screenshot 2023-09-17 110521](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/9a6ebeb6-514c-425e-a7a8-a075cef2f05c)
+![Screenshot 2023-09-17 111541](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/0e758fe8-ecc3-44a5-9d80-6a42241a0f25)
+![Screenshot 2023-09-17 121926](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/306fc0d0-f63c-4e8c-a345-2e276e021200)
+![Screenshot 2023-09-17 125022](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/88f546ae-a53a-4a5b-8cca-75966c6a6d9e)
+![Screenshot 2023-09-17 130653](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/db58ab87-1df5-4f74-b6b1-b83c0005d420)
+![Screenshot 2023-09-17 132226](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/c974a0e4-b4a8-4e15-92dd-d8b5c86d2e1a)
+![Screenshot 2023-09-17 135106](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/e44fb27d-e22d-4c18-a939-93729c9830bf)
+![Screenshot 2023-09-17 141713](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/0ee83d77-056d-463c-8d85-13b94ec0aa37)
+![Screenshot 2023-09-17 143116](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/dbf602d2-9ba9-455c-a2dc-066f8387660c)
+![Screenshot 2023-09-17 144920](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/3d6b64ab-291c-4e74-b801-c96fac9fd13a)
+![Screenshot 2023-09-17 150205](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/6085807e-8997-4acc-a014-da0199810464)
+![Screenshot 2023-09-17 151347](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/fc7b639d-7be3-47cb-bea0-7e353cfefa8e)
+![Screenshot 2023-09-17 151938](https://github
+![Screenshot 2023-09-17 152240](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/7d72c671-0d56-4520-8b45-a7ca5455ea74)
+.com/saranedubridge/Mysql-Task2/assets/114648828/cf5c2713-5853-486e-a9f8-ba79e079964a)
+![Screenshot 2023-09-17 152541](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/0c6dcbf8-7343-4ca0-ab63-23e08e1e936b)
+![Screenshot 2023-09-17 153133](https:
+![Screenshot 2023-09-17 153249](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/ed755510-ac1f-4249-9a27-fee257dde443)
+//github.com/saranedubridge/Mysql-Task2/assets/114648828/ab34f765-7e9d-4e74-96a0-3bc2b3685c40)
+![Screenshot 2023-09-17 153304](https://github.com/saranedubridge/Mysql-Task2/assets/114648828/8ec4b013-fbe7-40b0-a936-1f3b8e8a12f1)
